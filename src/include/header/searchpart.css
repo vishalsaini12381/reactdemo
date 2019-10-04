@@ -1,0 +1,59 @@
+.search-fluid {
+    padding: 20px 0px;
+    border-bottom: 1px solid #e8e8e8;
+}
+.search-fluid .mylogo img{
+    width: 200px;
+    height: auto;
+}
+.search-fluid .searchbox{
+    margin-top: 8px;
+}
+.search-fluid .searchbox .form-inline .form-control {
+    display: inline-block;
+    width: 80%;
+    vertical-align: middle;
+    margin-right: 0px!important;
+    border-radius: 3px 0px 0px 3px;
+    height: 40px;
+    border: 1px solid #e6e6e6;
+}
+.search-fluid .searchbox .form-inline .btn-outline-success{
+    width: 20%;
+    height: 40px;
+    border-radius: 0px 3px 3px 0px!important;
+    border: 1px solid #a2b034!important;
+    background: #a2b034!important;
+    color: #ffffff!important;
+    font-size: 20px;
+    padding: 0px 0px;
+    float: left;
+    margin: 0;
+    box-shadow: none;
+}
+.search-fluid .mycart{
+    margin-top: 8px;
+}
+.search-fluid .mycart a{
+    font-size: 14px;
+    font-weight: 600;
+    background: #a2b034;
+    padding: 12px 20px;
+    border-radius: 30px;
+    color: #ffffff;
+    float: right;
+    position: relative;
+}
+.search-fluid .mycart a .fa{
+    font-size: 18px;
+}
+.search-fluid .mycart span{
+    position: absolute;
+    right: 35%;
+    top: 0;
+    background: #3c3c3c;
+    color: #ffffff;
+    padding: 2px 8px;
+    border-radius: 50%;
+    font-weight: 700;
+}

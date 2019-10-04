@@ -1,0 +1,17 @@
+.topheader-fluid{background: #000000; }
+.topheader-fluid .mainsection .sectonpart{padding: 10px 0px; }
+.topheader-fluid .mainsection .sectonpart ul>li{float: left; margin-right: 25px; }
+.topheader-fluid .mainsection .sectonpart ul>li>a {color: white; font-size: 14px; font-weight: 550; letter-spacing: .5px; }
+.topheader-fluid .mainsection .accountpart {float: right; }
+.topheader-fluid .mainsection .accountpart ul>li{position: relative; padding: 10px 0px; float: left; margin-left: 25px; }
+.topheader-fluid .mainsection .accountpart ul>li>a {color: white; font-size: 14px; font-weight: 550; letter-spacing: .5px; }
+.topheader-fluid .mainsection .accountpart .mydropdown .droppart{position: absolute; width: 150px; margin-top: 10px; right: 0; background: #000000; border-radius: 0px 0px 5px 5px; display: none; padding-bottom: 10px; z-index: 1;}
+.topheader-fluid .mainsection .accountpart .mydropdown:hover .droppart{display: block; }
+.topheader-fluid .mainsection .accountpart .mydropdown .droppart a{display: block; color: #ffffff; font-size: 14px; letter-spacing: .5px; padding: 5px 10px; }
+.topheader-fluid .mainsection .accountpart .mydropdown .droppart a:hover{background: #4a4a4ae8; }
+.topheader-fluid .mainsection .accountpart .mydropdown .droppart a .fa{margin-right: 10px;}
+.topheader-fluid .mainsection .accountpart li:after {content: ''; position: absolute; border-style: solid; border-width: 0 5px 4px; border-color: #ffffff transparent; width: 0; z-index: 1; bottom: 0px; right: 30px; opacity: 0; }
+.topheader-fluid .mainsection .accountpart li:hover:after{opacity: 1; }
+.topheader-fluid .mainsection .accountpart ul>li>a img{height: 12px; width: 17px; }
+.topheader-fluid .mainsection .accountpart .mydropdown .droppart a img{margin-right: 10px;
+}

@@ -1,0 +1,21 @@
+.casualslider-fluid  {
+    padding: 0;
+}
+.casualslider-fluid .carousel .thumbs-wrapper {
+    margin: 20px;
+    overflow: hidden;
+    display: none;
+}
+.casualslider-fluid .carousel.carousel-slider .control-arrow {
+    top: 45%;
+    }
+
+.casualslider-fluid .carousel .control-next.control-arrow {
+    right: 15px;
+}
+.casualslider-fluid .carousel .control-prev.control-arrow {
+    left: 15px;
+}
+.casualslider-fluid  .carousel.carousel-slider .control-arrow:hover {
+    background: none;
+}

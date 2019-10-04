@@ -1,0 +1,8 @@
+.fashionad-fluid{
+	margin-bottom: 80px;
+	margin-top: 80px;
+}
+.fashionad-fluid .addimage img{
+    width: 100%;
+    height: auto;
+}

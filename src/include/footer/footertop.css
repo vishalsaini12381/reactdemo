@@ -1,0 +1,31 @@
+.footertop-fluid{
+    background: #a2b034;
+    padding: 40px 0px;
+    border-top: 2px solid black;
+}
+.footertop-fluid .footerlink h3{
+    font-size: 18px;
+    font-weight: 600;
+    color: #ffffff;
+    text-transform: uppercase;
+    position: relative;
+    margin-bottom: 20px;
+}
+.footertop-fluid .footerlink h3:after{
+    position: absolute;
+    content: "";
+    width: 70px;
+    height: 2px;
+    background: #ffffff;
+    bottom: -10px;
+    left: 0;
+}
+
+.footertop-fluid .footerlink ul li{
+    margin-bottom: 10px;
+}
+.footertop-fluid .footerlink ul li a{
+    color: white;
+    font-size: 14px;
+    font-weight: 500;
+}

@@ -1,0 +1,12 @@
+.bottompart-fluid{
+    background: #000000;
+    padding: 20px 0px;
+}
+.bottompart-fluid .mainsection {
+   text-align: center;
+}
+.bottompart-fluid .mainsection p{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+}
